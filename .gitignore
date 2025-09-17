@@ -1,3 +1,7 @@
 checkpoints/
 training_data/
 rdt_export_ws_test/
+rdt-1b/
+rdt-170m/
+siglip-so400m-patch14-384/
+t5-v1_1-xxl/
