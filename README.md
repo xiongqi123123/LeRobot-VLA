@@ -19,7 +19,5 @@ qi.xiong@A100-Test:~/DualArm/LeRobot-VLA$ tree -L 1
 ## RDT适配
 RDT目前已适配，具体文档见：
 
-## OpenVLA适配
-
-
-## Pi0适配
+## ACT适配 
+ACT目前已适配，具体见D-Robotics官方文档 https://forum.d-robotics.cc/t/topic/28858
